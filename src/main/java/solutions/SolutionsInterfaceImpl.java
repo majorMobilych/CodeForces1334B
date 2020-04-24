@@ -41,7 +41,7 @@ public class SolutionsInterfaceImpl implements SolutionsInterface {
                 }
             }
         } else return 0;
-        /* nm */
+        /* nm, it is never returned */
         return minToBeRich;
     }
 }
